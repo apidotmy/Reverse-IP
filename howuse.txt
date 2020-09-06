@@ -1,0 +1,10 @@
+Pengumuman!
+1. Setiap User Code Berbeda Dan ini Menggunakan System Credit
+2. Apabila Credit Abis! Tools Tidak Akan Berjalan & Silahkan Melakukan TOPUP
+
+Cara Pakai!
+1. Tools Ini Bersifat CLI BASH silahkan bagi pengguna windows bisa download gitbash & pengguna linux,ubuntu tinggal buka terminal
+2. Edit File Code Masukan Code Private Yang Diberikan Admin
+3. buka terminal/gitbash 
+4. ketik bash reverse.sh & enter
+5. silahkan masukan list.txt ip/web
